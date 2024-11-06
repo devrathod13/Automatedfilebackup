@@ -12,9 +12,9 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # AWS S3 configuration
-aws_access_key = 'AKIA6GBMD7TZX6GY7M22'
-aws_secret_key = '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'
-bucket_name = 'myfilebackup'
+aws_access_key = ''
+aws_secret_key = ''
+bucket_name = ''
 
 config_file = "backup_config.json"
 
